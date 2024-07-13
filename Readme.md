@@ -5,3 +5,6 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
+<br><br>
+-Para ejecutar el sistema debes poner:
+```npm install react```
