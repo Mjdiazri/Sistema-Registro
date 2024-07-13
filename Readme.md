@@ -8,3 +8,5 @@
 <br><br>
 -Para ejecutar el sistema debes poner:
 ```npm install react```
+
+Prueba para Git Bash
